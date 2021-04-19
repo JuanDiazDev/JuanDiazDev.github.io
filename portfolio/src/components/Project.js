@@ -7,7 +7,7 @@ import Badge from 'react-bootstrap/Badge'
 const Project = (props) => {
     const name = props.name;
     const link = props.link;
-    const image = "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+    const image = "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png";
     return (
         <Card 
         style={{ width: '20rem' }}>
