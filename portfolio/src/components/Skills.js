@@ -5,6 +5,7 @@ const Skills = () => {
     return (
         <div className = "skills-container">
             <h1>Skills</h1>
+            <h2>Some of my skills include:</h2>
             <div className = "skills">
                 <div className = "card-skill">
                     <img src = "https://img.icons8.com/color/144/000000/python.png"/>

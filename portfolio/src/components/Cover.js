@@ -4,7 +4,8 @@ import "./../Cover.css"
 function Cover() {
     return (
         <div className = "cover">
-            <h1>Juan Diaz <br></br> Computer Scientist ; Software Engineer</h1>
+            <h1 className = "name">Juan Diaz</h1>
+            <h1 className = "dev">  Dev.</h1>
         </div>
     )
 }
